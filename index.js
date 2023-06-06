@@ -6,8 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setupNavigation();
   showContent('books');
 });
-
-const time = DateTime.now().toLocaleString(DateTime.DATETIME_FULL);
+const time = DateTime.now();
 const dateElement = document.getElementById('currentDate');
 dateElement.textContent = time;
 
