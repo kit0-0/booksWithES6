@@ -1,6 +1,6 @@
 import BookManager from './modules/bookmanager.js';
 import { showContent, setupNavigation } from './modules/nav.js';
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import { DateTime } from './modules/luxon.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   setupNavigation();
