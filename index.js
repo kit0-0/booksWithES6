@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 const time = DateTime.now();
 const dateElement = document.getElementById('currentDate');
-dateElement.textContent = time;
+dateElement.textContent = time.toJSDate().toString();
 
 BookManager.initialize();
