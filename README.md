@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://kit0-0.github.io/booksWithEs6/)
+- [Live Demo Link](https://kit0-0.github.io/booksWithES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
